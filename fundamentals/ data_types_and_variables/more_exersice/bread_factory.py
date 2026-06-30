@@ -35,5 +35,3 @@ if bakery_is_open:
     print(f"Energy: {initial_energy}")
 else:
     print(f"Closed! Cannot afford {event_type}.")
-    
-
